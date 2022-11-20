@@ -1,3 +1,5 @@
 Hello world, version 1
 
 now it's version 2
+
+git is awesome in version 3
